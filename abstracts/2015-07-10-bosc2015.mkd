@@ -32,7 +32,7 @@ johannes.droege@helmholtz-hzi.de Johannes Droge
 felipe@leprevost.com.br Felipe Leprevost
 yperez@ebi.ac.uk Yasset Perez-Riverol
 avilella@aptamex.com Albert J. Vilella
-acopeland@lbl.gov Alex Copeland
+accopeland@lbl.gov Alex Copeland
 alice.mchardy@helmholtz-hzi.de Alice McHardy
 asczyrba@cebitec.uni-bielefeld.de Alexander Sczyrba
 
@@ -40,9 +40,9 @@ Affiliations:
 
 1. DOE Joint Genome Institute, 2800 Mitchell Drive, Walnut Creek, CA 94598, USA
 
-2. Center for Biotechnology, Bielefeld University, Universitatsstrasse 25, 33615, Bielefeld, Germany
+2. Faculty of Technology and Center for Biotechnology, Bielefeld University, Universitätsstraße 25, 33615 Bielefeld, Germany
 
-3. Helmholtz Centre for Infection Research, Inhoffenstrasse, 38124, Braunschweig, Germany
+3. Helmholtz Centre for Infection Research, Inhoffenstrasse 7, 38124 Braunschweig, Germany
 
 4. Fiocruz, Carlos Chagas Institute, Rua Prof. Algacyr Munhoz Mader, 3775, CIC 81350-010, Curitiba/PR, Brasil
 
