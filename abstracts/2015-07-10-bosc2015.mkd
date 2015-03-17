@@ -1,20 +1,25 @@
 ### Abstract
 
-Bioboxes: bioinformatics apps in standardised containers.
+  * Title: Bioboxes: standarised bioinformatics tools using Docker containers.
+  * URL: http://bioboxes.org
+  * Authors: The bioboxes community
 
-We introduce the open-source "bioboxes" community with the mission of
-building a solid catalog of bioinformatics containers. Each "box" or
-app is easy to install, easy to run and easy to reproduce in its
-results. By creating standardised interfaces and containers, each app
-can be seamlessly used like any other app of the same
-type. Researchers with this catalog of apps at their fingertips can
-comprehensively evaluate many similar tools and improve the quality of
-their research. Given the same input data, a system of well-defined
-bioboxes is also the first step towards the establishment of
-provenance records and making research truly reproducible.
+We introduce the open-source community "bioboxes" which has the aim of
+simplifing bioinformatics tools through adopting common interfaces. The Docker
+project makes installing, running and reproducing the output of an application
+easier because all the dependencies can be provided by creating a "container"
+of the application. The bioboxes project furthers this by creating standardised
+interfaces so that containerised software of the same biobox type can be
+seamlessly interchanged. For example a genome assembler biobox can be swapped
+with any other genome assembler biobox because their interfaces are the same.
+This standardisation allows researchers to quickly include tools in their
+workflows and improve the quality of their research through inclusion of the
+latest bioboxes. A system of well-defined bioboxes is an important step towards
+the making provenance easier and making research more shareable and
+reproducible.
 
 TODO: mention validator. Docker in Docker. Relationship with CWL.
 
 ### Details
 
-To be submitted to BOSC 2015.
+To be submitted to BOSC 2015. This abstract should be considered for a talk.
